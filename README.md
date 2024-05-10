@@ -1,5 +1,4 @@
 # SIR_Calibration_and_Scenario_Testing
-Calibrating an SIR model to test the impact a vaccination scenario.
 
 This model was an assignment for the Coursera Course "Interventions and Calibration" available from: https://www.coursera.org/learn/interventions-and-calibration
 
